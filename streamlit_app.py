@@ -40,7 +40,7 @@ import sys
 import os
 import requests
 from pathlib import Path
-from bs4 import BeautifulSoup
+# from bs4 import BeautifulSoup
 
 # Add project root to sys.path so package imports like DAY_2.knowledge_base work
 current_dir = os.path.dirname(os.path.abspath(__file__))
